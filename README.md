@@ -6,10 +6,10 @@ Version: 0.1
 ## Road map
 #### 0.1 - Parkgate Tarn
 Features:
-* Create development setup
-* Add details to README.md on how to create setup
-* Complete HTML CV
-* Create inital designs for Wordpress plugin
+1. Create development setup
+2. Add details to README.md on how to create setup
+3. Complete HTML CV
+4. Create inital designs for Wordpress plugin
 
 #### 0.2 - Littlewater Tarn
 Features:
@@ -50,4 +50,4 @@ Making it work
 I use gulp to work on the buld process of development, compiling and minifying the SCSS.
 <INSERT INSTRUCTIONS>
 
-## Wordpress Plugin
+~~## Wordpress Plugin~~
