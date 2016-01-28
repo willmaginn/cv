@@ -1,13 +1,13 @@
 # cv
 Exploring ways to display your CV to possible employers
 
-Version: 0.1
+Version: 0.1.2
 
 ## Road map
 #### 0.1 - Parkgate Tarn
 ##### Features:
-1. Create development setup
-2. Add details to README.md on how to create setup
+~~1. Create development setup~~
+~~2. Add details to README.md on how to create setup~~
 3. Complete HTML CV
 4. Create inital designs for Wordpress plugin
 
